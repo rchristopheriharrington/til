@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Investigated performance bottleneck, noted findings
+
+## 2026-05-06
+- Resolved deprecation warnings
