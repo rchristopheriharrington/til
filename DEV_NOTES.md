@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Fixed off-by-one error in loop
 - Documented config options
+
+## 2026-05-06
+- Investigated performance bottleneck, noted findings
