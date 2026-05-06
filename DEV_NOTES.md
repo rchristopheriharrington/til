@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Updated .gitignore to exclude build artifacts
 - Resolved TODO items from previous session
+
+## 2026-05-06
+- Fixed off-by-one error in loop
+- Documented config options
